@@ -1,2 +1,2 @@
-# ING_SOFWARE
-ingeniería de software
+# Ingenier-a-de-sofware-
+Ingeniería de sofware 
